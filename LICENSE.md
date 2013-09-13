@@ -1,0 +1,1 @@
+Copyright [Creactive Soluções Tecnológicas](http://creactive.com.br). All rights reserved.
