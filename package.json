@@ -1,0 +1,17 @@
+{
+  "name": "Site",
+  "version": "0.0.0",
+  "description": "This is our site. There are many like it, but this one is ours.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:creactive/site.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies" : { "connect" : "*" }
+}

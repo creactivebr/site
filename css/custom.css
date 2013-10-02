@@ -442,6 +442,16 @@ footer {
   margin-bottom: 75px;
 }
 
+.contact-blog {
+    margin-bottom: 25px;
+    font-size: 60px;
+    line-height: normal;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 300;
+    display: inline-block;
+    word-break: break-all;
+}
+
 .contact-email {
   margin-bottom: 25px;
   font-size: 60px;
@@ -476,7 +486,7 @@ footer {
   font-weight: 400;
   font-size: 16px;
   letter-spacing: 0px;
-  margin-top: 100px;
+  margin-top: 50px;
   margin-bottom: 0px;
 }
 
