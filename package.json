@@ -5,13 +5,16 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "http-server ."
   },
   "repository": {
     "type": "git",
     "url": "git@bitbucket.org:creactive/site.git"
   },
   "author": "",
-  "license": "BSD-2-Clause",
-  "dependencies" : { "connect" : "*" }
+  "license": "",
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^0.12.1"
+  }
 }
