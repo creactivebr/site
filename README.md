@@ -5,29 +5,18 @@ This is our site. There are many like it, but this one is ours.
 
 ## Getting Started
 
-Before anything, **READ THE WIKI** for more detailed instructions.
+It's a one page html site my dude, not rocket science. Just run it with any static file server and you're good. I like to use [serve](https://www.npmjs.com/package/serve):
 
-1. [Install Node.js](http://nodejs.org/)
+        npx serve
 
-1. Clone the project and run the server:
-
-        git clone git@bitbucket.org:creactive/site.git
-        cd site
-	    npm install
-	    run
-
-1. Open [http://localhost:9778](http://localhost:9778)
-
-1. Start hacking away fool!
+Now open [http://localhost:5000](http://localhost:5000) on your favorite browser and that's it.
 
 
 ## Resources
 
-* [Trello Board](https://trello.com/b/4CrYalhI)
-* [Issues Tracker](https://bitbucket.org/creactive/site/issues)
-* [Wiki](https://bitbucket.org/creactive/site/wiki)
+* [Issues Tracker](https://github.com/creactivebr/site/issues)
 
 
 ## License
 
-Copyright &copy; 2013 [Creactive Soluções Tecnológicas](http://creactive.com.br). All rights reserved.
+Copyright &copy; 2020 [Creactive Soluções Tecnológicas](http://creactive.com.br). All rights reserved.
