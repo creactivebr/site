@@ -1,0 +1,28 @@
+{
+  "name": "creactive-site",
+  "version": "1.0.0",
+  "description": "This is our site. There are many like it, but this one is ours.",
+  "main": "false",
+  "exports": "false",
+  "scripts": {
+    "serve": "npx serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creactivebr/site.git"
+  },
+  "keywords": [
+    "creactive",
+    "website",
+    "site"
+  ],
+  "author": "Creactive",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/creactivebr/site/issues"
+  },
+  "homepage": "https://github.com/creactivebr/site#readme",
+  "devDependencies": {
+    "serve": "^11.3.0"
+  }
+}
