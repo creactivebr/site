@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/creactivebr/site#readme",
   "devDependencies": {
-    "serve": "^11.3.0"
+    "serve": "^14.2.0"
   }
 }
